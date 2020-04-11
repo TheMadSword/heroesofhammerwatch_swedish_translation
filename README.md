@@ -1,0 +1,2 @@
+# heroesofhammerwatch_swedish_translation
+Heroes of Hammerwatch Swedish Translation
